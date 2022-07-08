@@ -1,0 +1,5 @@
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir

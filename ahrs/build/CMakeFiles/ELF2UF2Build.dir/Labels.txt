@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/cm-lite/pico/pico_apps/ahrs/build/CMakeFiles/ELF2UF2Build
+/home/cm-lite/pico/pico_apps/ahrs/build/CMakeFiles/ELF2UF2Build.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/cm-lite/pico/pico_apps/ahrs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
