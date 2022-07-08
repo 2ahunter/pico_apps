@@ -216,14 +216,10 @@ hardware/uart.h
 pico/stdio.h
 /home/cm-lite/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/pico/stdio.h
 
-/home/cm-lite/pico/pico_apps/ahrs/BNO055.h
-
-/home/cm-lite/pico/pico_apps/ahrs/ahrs_main.c
+/home/cm-lite/pico/pico_apps/ahrs/BNO055.c
 stdio.h
 -
 string.h
--
-math.h
 -
 pico/stdlib.h
 /home/cm-lite/pico/pico_apps/ahrs/pico/stdlib.h
@@ -233,18 +229,8 @@ hardware/i2c.h
 /home/cm-lite/pico/pico_apps/ahrs/hardware/i2c.h
 BNO055.h
 /home/cm-lite/pico/pico_apps/ahrs/BNO055.h
-lin_alg_float.h
-/home/cm-lite/pico/pico_apps/ahrs/lin_alg_float.h
 
-/home/cm-lite/pico/pico_apps/ahrs/lin_alg_float.c
-lin_alg_float.h
-/home/cm-lite/pico/pico_apps/ahrs/lin_alg_float.h
-math.h
--
-stdio.h
--
-
-/home/cm-lite/pico/pico_apps/ahrs/lin_alg_float.h
+/home/cm-lite/pico/pico_apps/ahrs/BNO055.h
 
 generated/pico_base/pico/config_autogen.h
 /home/cm-lite/pico/pico-sdk/src/boards/include/boards/pico.h

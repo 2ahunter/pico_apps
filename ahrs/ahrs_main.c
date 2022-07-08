@@ -27,7 +27,7 @@
 #define TRUE 1
 #define FALSE 0
 
-#define PERIOD 100000 //period in usec
+#define PERIOD 20000 //period in usec
 
 #define MSZ 3
 #define QSZ 4

@@ -316,9 +316,9 @@ int8_t BNO055_Init(void) {
         settings_buffer[1] = ACC_CONFIG_PARAMS; // Accelerometer settings: +/- 2g, 62.5 Hz, normal
         write_return = i2c_write_blocking(i2c_default, BNO055_ADDRESS_A, settings_buffer, length, false);  
 
-        settings_buffer[0] = BNO055_MAG_CONFIG;
-        settings_buffer[1] = MAG_CONFIG_PARAMS;
-        write_return = i2c_write_blocking(i2c_default, BNO055_ADDRESS_A, settings_buffer, length, false); 
+        // settings_buffer[0] = BNO055_MAG_CONFIG;
+        // settings_buffer[1] = MAG_CONFIG_PARAMS;
+        // write_return = i2c_write_blocking(i2c_default, BNO055_ADDRESS_A, settings_buffer, length, false); 
 
         settings_buffer[0] = BNO055_GYR_CONFIG_0;
         settings_buffer[1] = GYRO_CONFIG_PARAMS_0;
